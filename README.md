@@ -1,6 +1,6 @@
 # Universidad Nacional de Colombia
 
-## Actividad 1 — Programación Orientada a Objetos (2026-2S)
+## Actividades — Programación Orientada a Objetos (2026-2S)
 
 Implementación en Python de cinco ejercicios de lógica de programación, tomados del
 libro *Lógica de Programación* de Efraín Oviedo Regino.
